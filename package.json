@@ -1,6 +1,6 @@
 {
   "name": "promise-first",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ES6 polyfill for `Promise.first`",
   "main": "index.js",
   "scripts": {
