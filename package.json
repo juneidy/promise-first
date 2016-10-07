@@ -1,0 +1,22 @@
+{
+  "name": "promise-first",
+  "version": "1.0.0",
+  "description": "ES6 polyfill for `Promise.first`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juneidysoo/promise-first.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Juneidy Wibowo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juneidysoo/promise-first/issues"
+  },
+  "homepage": "https://github.com/juneidysoo/promise-first#readme"
+}
